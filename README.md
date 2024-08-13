@@ -1,6 +1,9 @@
 # DashboardAQI_PowerBI
 A comprehensive Power BI dashboard visualizing key factors influencing air quality across major cities in India.
 
+![Screenshot (22)](https://github.com/user-attachments/assets/3ccea00d-61c4-4371-875f-989d7d30506c)
+
+
 ## Data Import and Transformation:
 1. Data Import: The project began with importing air quality data from various sources into Power BI. This data included daily measurements of AQI (Air Quality Index), and pollutant levels such as NO, CO, SO2, PM2.5, Benzene, Toluene, and Xylene.
 
