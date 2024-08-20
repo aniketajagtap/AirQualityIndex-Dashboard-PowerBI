@@ -1,4 +1,4 @@
-# DashboardAQI_PowerBI
+# AirQualityIndex-Dashboard-PowerBI
 A comprehensive Power BI dashboard visualizing key factors influencing air quality across major cities in India.
 
 ![Screenshot (22)](https://github.com/user-attachments/assets/3ccea00d-61c4-4371-875f-989d7d30506c)
